@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MartSystemModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Branch">
+    <Key>
+      <PropertyRef Name="Branch_ID" />
+    </Key>
+    <Property Name="Branch_ID" Type="int" Nullable="false" />
+    <Property Name="Branch_Address" Type="varchar" MaxLength="140" />
+    <Property Name="Contact_Number" Type="int" />
+    <Property Name="City" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="Department_No" />
+    </Key>
+    <Property Name="Department_No" Type="int" Nullable="false" />
+    <Property Name="Department_Name" Type="varchar" MaxLength="40" />
+    <Property Name="No_Of_Employees" Type="int" />
+    <Property Name="Manager" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="Employee_ID" />
+    </Key>
+    <Property Name="Employee_ID" Type="int" Nullable="false" />
+    <Property Name="First_Name" Type="varchar" MaxLength="40" />
+    <Property Name="Last_Name" Type="varchar" MaxLength="40" />
+    <Property Name="Contact_Number" Type="int" />
+    <Property Name="Address" Type="varchar" MaxLength="140" />
+    <Property Name="Hire_Date" Type="date" />
+    <Property Name="Account_Number" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'MartSystem.dbo.Employees_Details' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Employees_Details">
+          <Property Name="Employee_ID" Type="int" />
+          <Property Name="Job_ID" Type="int" />
+          <Property Name="Branch_ID" Type="int" />
+          <Property Name="Department_No" Type="int" />
+        </EntityType>-->
+  <EntityType Name="Jobs">
+    <Key>
+      <PropertyRef Name="Job_ID" />
+    </Key>
+    <Property Name="Job_ID" Type="int" Nullable="false" />
+    <Property Name="Position" Type="varchar" MaxLength="40" />
+    <Property Name="Salary" Type="money" />
+  </EntityType>
+  <EntityType Name="LogIn_Details">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="Employee_ID" Type="int" />
+    <Property Name="Pasword" Type="varchar" MaxLength="40" />
+    <Property Name="Email" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Product_Categories">
+    <Key>
+      <PropertyRef Name="Category_ID" />
+    </Key>
+    <Property Name="Category_ID" Type="int" Nullable="false" />
+    <Property Name="Category_Name" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Product_ID" />
+    </Key>
+    <Property Name="Product_ID" Type="int" Nullable="false" />
+    <Property Name="Product_Name" Type="varchar" MaxLength="40" />
+    <Property Name="Supplier_ID" Type="int" />
+    <Property Name="Category_ID" Type="int" />
+    <Property Name="Product_desc" Type="varchar" MaxLength="40" />
+    <Property Name="Unit_Price" Type="int" />
+    <Property Name="Expire_Date" Type="varchar" MaxLength="40" />
+    <Property Name="Product_Total_Quantity" Type="int" />
+  </EntityType>
+  <EntityType Name="Sales">
+    <Key>
+      <PropertyRef Name="SaleID" />
+    </Key>
+    <Property Name="SaleID" Type="int" Nullable="false" />
+    <Property Name="Customer_Name" Type="varchar" MaxLength="40" />
+    <Property Name="Customer_Contact" Type="varchar" MaxLength="40" />
+    <Property Name="Datee" Type="date" />
+    <Property Name="Timee" Type="time" Precision="7" />
+    <Property Name="Form_Of_Payment" Type="varchar" MaxLength="40" />
+    <Property Name="Total" Type="int" />
+  </EntityType>
+  <EntityType Name="Sales_Information">
+    <Key>
+      <PropertyRef Name="Sale_ID" />
+    </Key>
+    <Property Name="Sale_ID" Type="int" Nullable="false" />
+    <Property Name="Product_ID" Type="int" />
+    <Property Name="Quantity" Type="int" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="Supplier_ID" />
+    </Key>
+    <Property Name="Supplier_ID" Type="int" Nullable="false" />
+    <Property Name="Supplier_Name" Type="varchar" MaxLength="40" />
+    <Property Name="Contact" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <!--Errors Found During Generation:
+error 6004: The table 'MartSystem.dbo.Employees_Details' is referenced by a relationship, but cannot be found.
+        <Association Name="FK__Employees__Branc__3B75D760" />-->
+  <!--Errors Found During Generation:
+error 6004: The table 'MartSystem.dbo.Employees_Details' is referenced by a relationship, but cannot be found.
+        <Association Name="FK__Employees__Depar__3C69FB99" />-->
+  <!--Errors Found During Generation:
+error 6004: The table 'MartSystem.dbo.Employees_Details' is referenced by a relationship, but cannot be found.
+        <Association Name="FK__Employees__Emplo__3D5E1FD2" />-->
+  <!--Errors Found During Generation:
+error 6004: The table 'MartSystem.dbo.Employees_Details' is referenced by a relationship, but cannot be found.
+        <Association Name="FK__Employees__Job_I__3A81B327" />-->
+  <Association Name="FK__LogIn_Det__Emplo__286302EC">
+    <End Role="Employees" Type="Self.Employees" Multiplicity="0..1" />
+    <End Role="LogIn_Details" Type="Self.LogIn_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Employee_ID" />
+      </Principal>
+      <Dependent Role="LogIn_Details">
+        <PropertyRef Name="Employee_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Catego__35BCFE0A">
+    <End Role="Product_Categories" Type="Self.Product_Categories" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product_Categories">
+        <PropertyRef Name="Category_ID" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Category_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Suppli__34C8D9D1">
+    <End Role="Supplier" Type="Self.Supplier" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="Supplier_ID" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Supplier_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sales_Inf__Produ__38996AB5">
+    <End Role="Products" Type="Self.Products" Multiplicity="0..1" />
+    <End Role="Sales_Information" Type="Self.Sales_Information" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Product_ID" />
+      </Principal>
+      <Dependent Role="Sales_Information">
+        <PropertyRef Name="Product_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MartSystemModelStoreContainer">
+    <EntitySet Name="Branch" EntityType="Self.Branch" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Jobs" EntityType="Self.Jobs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LogIn_Details" EntityType="Self.LogIn_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product_Categories" EntityType="Self.Product_Categories" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sales" EntityType="Self.Sales" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sales_Information" EntityType="Self.Sales_Information" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Supplier" EntityType="Self.Supplier" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__LogIn_Det__Emplo__286302EC" Association="Self.FK__LogIn_Det__Emplo__286302EC">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="LogIn_Details" EntitySet="LogIn_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Catego__35BCFE0A" Association="Self.FK__Products__Catego__35BCFE0A">
+      <End Role="Product_Categories" EntitySet="Product_Categories" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Suppli__34C8D9D1" Association="Self.FK__Products__Suppli__34C8D9D1">
+      <End Role="Supplier" EntitySet="Supplier" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sales_Inf__Produ__38996AB5" Association="Self.FK__Sales_Inf__Produ__38996AB5">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Sales_Information" EntitySet="Sales_Information" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MartSystemModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Branch">
+    <Key>
+      <PropertyRef Name="Branch_ID" />
+    </Key>
+    <Property Name="Branch_ID" Type="Int32" Nullable="false" />
+    <Property Name="Branch_Address" Type="String" MaxLength="140" FixedLength="false" Unicode="false" />
+    <Property Name="Contact_Number" Type="Int32" />
+    <Property Name="City" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="Department_No" />
+    </Key>
+    <Property Name="Department_No" Type="Int32" Nullable="false" />
+    <Property Name="Department_Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="No_Of_Employees" Type="Int32" />
+    <Property Name="Manager" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Employee_ID" />
+    </Key>
+    <Property Name="Employee_ID" Type="Int32" Nullable="false" />
+    <Property Name="First_Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Last_Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Contact_Number" Type="Int32" />
+    <Property Name="Address" Type="String" MaxLength="140" FixedLength="false" Unicode="false" />
+    <Property Name="Hire_Date" Type="DateTime" Precision="0" />
+    <Property Name="Account_Number" Type="Int32" />
+    <NavigationProperty Name="LogIn_Details" Relationship="Self.FK__LogIn_Det__Emplo__286302EC" FromRole="Employees" ToRole="LogIn_Details" />
+  </EntityType>
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="Job_ID" />
+    </Key>
+    <Property Name="Job_ID" Type="Int32" Nullable="false" />
+    <Property Name="Position" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Salary" Type="Decimal" Precision="19" Scale="4" />
+  </EntityType>
+  <EntityType Name="LogIn_Details">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Employee_ID" Type="Int32" />
+    <Property Name="Pasword" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK__LogIn_Det__Emplo__286302EC" FromRole="LogIn_Details" ToRole="Employees" />
+  </EntityType>
+  <EntityType Name="Product_Categories">
+    <Key>
+      <PropertyRef Name="Category_ID" />
+    </Key>
+    <Property Name="Category_ID" Type="Int32" Nullable="false" />
+    <Property Name="Category_Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Products__Catego__35BCFE0A" FromRole="Product_Categories" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Product_ID" />
+    </Key>
+    <Property Name="Product_ID" Type="Int32" Nullable="false" />
+    <Property Name="Product_Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Supplier_ID" Type="Int32" />
+    <Property Name="Category_ID" Type="Int32" />
+    <Property Name="Product_desc" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Unit_Price" Type="Int32" />
+    <Property Name="Expire_Date" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Product_Total_Quantity" Type="Int32" />
+    <NavigationProperty Name="Product_Categories" Relationship="Self.FK__Products__Catego__35BCFE0A" FromRole="Products" ToRole="Product_Categories" />
+    <NavigationProperty Name="Supplier" Relationship="Self.FK__Products__Suppli__34C8D9D1" FromRole="Products" ToRole="Supplier" />
+    <NavigationProperty Name="Sales_Information" Relationship="Self.FK__Sales_Inf__Produ__38996AB5" FromRole="Products" ToRole="Sales_Information" />
+  </EntityType>
+  <EntityType Name="Sale">
+    <Key>
+      <PropertyRef Name="SaleID" />
+    </Key>
+    <Property Name="SaleID" Type="Int32" Nullable="false" />
+    <Property Name="Customer_Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Customer_Contact" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Datee" Type="DateTime" Precision="0" />
+    <Property Name="Timee" Type="Time" Precision="7" />
+    <Property Name="Form_Of_Payment" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Total" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Sales_Information">
+    <Key>
+      <PropertyRef Name="Sale_ID" />
+    </Key>
+    <Property Name="Sale_ID" Type="Int32" Nullable="false" />
+    <Property Name="Product_ID" Type="Int32" />
+    <Property Name="Quantity" Type="Int32" />
+    <NavigationProperty Name="Product" Relationship="Self.FK__Sales_Inf__Produ__38996AB5" FromRole="Sales_Information" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="Supplier_ID" />
+    </Key>
+    <Property Name="Supplier_ID" Type="Int32" Nullable="false" />
+    <Property Name="Supplier_Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Contact" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Products__Suppli__34C8D9D1" FromRole="Supplier" ToRole="Products" />
+  </EntityType>
+  <Association Name="FK__LogIn_Det__Emplo__286302EC">
+    <End Role="Employees" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="LogIn_Details" Type="Self.LogIn_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Employee_ID" />
+      </Principal>
+      <Dependent Role="LogIn_Details">
+        <PropertyRef Name="Employee_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Catego__35BCFE0A">
+    <End Role="Product_Categories" Type="Self.Product_Categories" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product_Categories">
+        <PropertyRef Name="Category_ID" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Category_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Suppli__34C8D9D1">
+    <End Role="Supplier" Type="Self.Supplier" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="Supplier_ID" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Supplier_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sales_Inf__Produ__38996AB5">
+    <End Role="Products" Type="Self.Product" Multiplicity="0..1" />
+    <End Role="Sales_Information" Type="Self.Sales_Information" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Product_ID" />
+      </Principal>
+      <Dependent Role="Sales_Information">
+        <PropertyRef Name="Product_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MartSystemEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Branches" EntityType="Self.Branch" />
+    <EntitySet Name="Departments" EntityType="Self.Department" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="Jobs" EntityType="Self.Job" />
+    <EntitySet Name="LogIn_Details" EntityType="Self.LogIn_Details" />
+    <EntitySet Name="Product_Categories" EntityType="Self.Product_Categories" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Sales" EntityType="Self.Sale" />
+    <EntitySet Name="Sales_Information" EntityType="Self.Sales_Information" />
+    <EntitySet Name="Suppliers" EntityType="Self.Supplier" />
+    <AssociationSet Name="FK__LogIn_Det__Emplo__286302EC" Association="Self.FK__LogIn_Det__Emplo__286302EC">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="LogIn_Details" EntitySet="LogIn_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Catego__35BCFE0A" Association="Self.FK__Products__Catego__35BCFE0A">
+      <End Role="Product_Categories" EntitySet="Product_Categories" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Suppli__34C8D9D1" Association="Self.FK__Products__Suppli__34C8D9D1">
+      <End Role="Supplier" EntitySet="Suppliers" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sales_Inf__Produ__38996AB5" Association="Self.FK__Sales_Inf__Produ__38996AB5">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Sales_Information" EntitySet="Sales_Information" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

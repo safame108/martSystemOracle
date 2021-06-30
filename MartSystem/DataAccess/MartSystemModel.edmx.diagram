@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aef22a77ba9b4be7a4f2126b70522e31" Name="Diagram1">
+        <EntityTypeShape EntityType="MartSystemModel.Branch" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Department" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Employee" Width="1.5" PointX="2.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Job" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.LogIn_Details" Width="1.5" PointX="5" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Product_Categories" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Product" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Sale" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Sales_Information" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MartSystemModel.Supplier" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <AssociationConnector Association="MartSystemModel.FK__LogIn_Det__Emplo__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="MartSystemModel.FK__Products__Catego__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="MartSystemModel.FK__Products__Suppli__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="MartSystemModel.FK__Sales_Inf__Produ__38996AB5" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

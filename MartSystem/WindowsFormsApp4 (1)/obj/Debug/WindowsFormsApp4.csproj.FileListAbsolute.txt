@@ -1,0 +1,254 @@
+C:\Users\Maryam\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Maryam\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Maryam\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Admin.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Dashboard.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.logo.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ManageItem.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.NewMember.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignIn.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Cashier.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Checkout.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Manager.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Products.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Salary.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Warning.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4\bin\Debug\Admin.resx
+C:\Users\Maryam\Desktop\WindowsFormsApp4\bin\Debug\Admin.cs
+C:\Users\Maryam\Desktop\WindowsFormsApp4\bin\Debug\Admin.Designer.cs
+D:\Projects\WindowsFormsApp4\bin\Debug\Admin.resx
+D:\Projects\WindowsFormsApp4\bin\Debug\Admin.cs
+D:\Projects\WindowsFormsApp4\bin\Debug\Admin.Designer.cs
+D:\Projects\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Projects\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Projects\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Admin.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Cashier.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Checkout.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Dashboard.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.logo.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ManageItem.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Manager.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Products.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.NewMember.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Salary.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignIn.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Warning.resources
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\bin\Debug\Admin.resx
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\bin\Debug\Admin.cs
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\bin\Debug\Admin.Designer.cs
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Admin.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Cashier.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Checkout.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Dashboard.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.logo.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.ManageItem.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Manager.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Products.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.NewMember.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Salary.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.SignIn.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Warning.resources
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Maryam\Desktop\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Projects\WindowsFormsApp4 (1)\bin\Debug\Admin.resx
+D:\Projects\WindowsFormsApp4 (1)\bin\Debug\Admin.cs
+D:\Projects\WindowsFormsApp4 (1)\bin\Debug\Admin.Designer.cs
+D:\Projects\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe.config
+D:\Projects\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe
+D:\Projects\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.pdb
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Admin.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Cashier.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Checkout.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Dashboard.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.logo.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.ManageItem.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Manager.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Products.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.NewMember.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Salary.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.SignIn.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Warning.resources
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.exe
+D:\Projects\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.pdb
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Admin.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Cashier.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Checkout.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.update.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.logo.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Manager.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Products.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.NewMember.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Sales.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.SignIn.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Warning.resources
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.resx
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.cs
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.Designer.cs
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe.config
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.pdb
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.dll
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.dll
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.dll
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.pdb
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.pdb
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.pdb
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll.config
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.xml
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.exe
+D:\GIT-Project\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.pdb
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.resx
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.cs
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.Designer.cs
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe.config
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.pdb
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.dll
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.dll
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.dll
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.pdb
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.pdb
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.pdb
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll.config
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.xml
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Admin.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Cashier.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Checkout.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.update.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.logo.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Manager.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Products.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.NewMember.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Sales.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.SignIn.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Warning.resources
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.exe
+D:\FInal DBMS\MartSystem\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.resx
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.cs
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.Designer.cs
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll.config
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.xml
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Admin.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Cashier.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Checkout.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.update.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.logo.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Manager.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Products.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.NewMember.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Sales.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.SignIn.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Warning.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.exe
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\MartSystem-master\MartSystem-master\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Admin.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Cashier.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Checkout.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.update.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.logo.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Manager.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MemberDetails.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.CProductDetails.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.MProductDetail.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Products.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.NewMember.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Sales.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.SignIn.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.Warning.resources
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.exe
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.resx
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.cs
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Admin.Designer.cs
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.exe
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.dll
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BuisnessObject.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\BusinessLayer.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.pdb
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\DataAccess.dll.config
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\bin\Debug\EntityFramework.xml
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\PAKISTAN LAPTOP\Desktop\COURSES\ADBMSLAB\practiceRun\MartSystem\WindowsFormsApp4 (1)\obj\Debug\WindowsFormsApp4.supplierForm.resources
